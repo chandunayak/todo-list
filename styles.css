@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.todo-container{
+    font-family: "Roboto";
+    background-color: white;
+    padding: 20px;
+}
+.todo-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    text-shadow: 1px 1px black;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+.create-task-heading{
+    color: black;
+    font-size: 40px;
+    font-weight: 600;
+    text-shadow: 1px 1px rgba(95, 89, 89, 0.781);
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.todo-user-input{
+    width: 100%;
+    height: 45px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    outline: none;
+}
+.add-todo{
+    width: 100px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: #4c63b6;
+    color: white;
+    margin-bottom: 20px;
+}
+.mytask-heading{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px black;
+}
+.todo-items-container{
+    margin: 0;
+    padding: 0;
+}
+.todo-item{
+    list-style-type: none;
+    padding: 15px;
+    margin-bottom: 10px;
+    display: flex;
+}
+.todo-box{
+    height: 25px;
+    width: 25px;
+    outline: none;
+    border: none;
+    margin-top: 10px;
+}
+.label-container{
+    border-left: 4px solid rgb(240, 114, 146);
+    border-right: 4px solid rgb(240, 114, 146);
+    width: 100%;
+    margin-left: 20px;
+    border-radius: 5px;
+    display: flex;
+    background-color: rgb(201, 238, 250);
+}
+.checkbox-label{
+    padding-left: 20px;
+    color: black;
+    font-size: 16px;
+    width: 85%;
+    margin-top: 10px;
+}
+.delete-icon-container{
+    text-align: right;
+    width: 15%;
+}
+.delete-icon{
+    padding: 15px;
+}
+.checked {
+    text-decoration: line-through;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
